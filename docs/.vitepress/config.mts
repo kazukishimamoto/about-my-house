@@ -14,7 +14,7 @@ export default defineConfig({
       {
         text: '島本家の特徴',
         items: [
-          { text: '特徴1: xxxx', link: '/markdown-examples' },
+          { text: '特徴1: xxx', link: '/good-point-1' },
           { text: '特徴2: xxxx', link: '/api-examples' },
         ],
       },
