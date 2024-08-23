@@ -15,10 +15,16 @@ hero:
       link: /markdown-examples
 
 features:
-  - title: '特徴1: xxxx'
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: '特徴1: シンプルでかっこいい正面'
+    details: 黒をベースにしつつ、長く伸びている軒裏から木の色が見えることで、黒と木のシンプルでかっこよくまとまりました
+    linkText: Learn more
+    link: /good-point-1
   - title: '特徴2: xxxx'
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    linkText: Learn more
+    link: /good-point-1
   - title: '特徴3: xxxx'
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    linkText: Learn more
+    link: /good-point-1
 ---
