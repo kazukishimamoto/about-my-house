@@ -6,6 +6,9 @@ hero:
   name: 'About My House'
   text: '島本家の特徴をご紹介'
   tagline: 29才夫婦が建てた32坪の平屋
+  image:
+    src: /top.PNG
+    alt: front view
   actions:
     - theme: brand
       text: 詳細を見る
