@@ -3,23 +3,19 @@
 layout: home
 
 hero:
-  name: "About My House"
-  text: "This page provides detailed information about the features, interior, and surrounding environment of Shimamoto's house."
-  tagline: My great project tagline
+  name: 'About My House'
+  text: '島本家の特徴をご紹介'
+  tagline: 29才夫婦が建てた32坪の平屋
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 詳細を見る
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 
 features:
-  - title: Feature A
+  - title: '特徴1: xxxx'
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: '特徴2: xxxx'
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: '特徴3: xxxx'
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
