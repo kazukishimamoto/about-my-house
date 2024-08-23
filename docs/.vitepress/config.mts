@@ -2,27 +2,30 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "About My House",
-  description: "This page provides detailed information about the features, interior, and surrounding environment of Shimamoto's house.",
+  title: "Shimamoto's House",
+  description:
+    "This page provides detailed information about the features, interior, and surrounding environment of Shimamoto's house.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
+    siteTitle: "Shimamoto's House",
+    nav: [{ text: 'Home', link: '/' }],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '島本家の特徴',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+          { text: '特徴1: xxxx', link: '/markdown-examples' },
+          { text: '特徴2: xxxx', link: '/api-examples' },
+        ],
+      },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
+      { icon: 'instagram', link: 'https://www.instagram.com/jakky0529/' },
+    ],
+
+    footer: {
+      copyright: '© 2024 Kazuki Shimamoto',
+    },
+  },
 })
