@@ -14,8 +14,15 @@ export default defineConfig({
       {
         text: '島本家の特徴',
         items: [
-          { text: '特徴1: xxx', link: '/good-point-1' },
-          { text: '特徴2: xxxx', link: '/api-examples' },
+          { text: '特徴1: シンプルでかっこいい正面', link: '/good-point-1' },
+          {
+            text: '特徴2: 四角いウォークインがポイントのぐるぐるハウス',
+            link: '/good-point-2',
+          },
+          {
+            text: '特徴3: リビングから庭に繋がる大開口窓とウッドデッキ',
+            link: '/good-point-3',
+          },
         ],
       },
     ],

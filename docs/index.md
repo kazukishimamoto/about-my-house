@@ -12,19 +12,19 @@ hero:
   actions:
     - theme: brand
       text: 詳細を見る
-      link: /markdown-examples
+      link: /summary
 
 features:
   - title: '特徴1: シンプルでかっこいい正面'
     details: 黒をベースにしつつ、長く伸びている軒裏から木の色が見えることで、黒と木のシンプルでかっこよくまとまりました
     linkText: Learn more
     link: /good-point-1
-  - title: '特徴2: xxxx'
+  - title: '特徴2: 四角いウォークインがポイントのぐるぐるハウス'
+    details: 積水ハウスの友人が最初に書いてくれた我が家のテーマは「ぐるぐるハウス」
+    linkText: Learn more
+    link: /good-point-2
+  - title: '特徴3: リビングから庭に繋がる大開口窓とウッドデッキ'
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     linkText: Learn more
-    link: /good-point-1
-  - title: '特徴3: xxxx'
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    linkText: Learn more
-    link: /good-point-1
+    link: /good-point-3
 ---
